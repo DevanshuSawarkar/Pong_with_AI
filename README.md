@@ -33,8 +33,7 @@ The player controls the left paddle using the mouse, while the right paddle is c
 
 ## Screenshot
 
-![Pong Screenshot]([images\pong_screenshot.png](https://github.com/DevanshuSawarkar/Pong_with_AI/blob/main/images/pong_screenshot.png))
-
+![Pong Screenshot](https://github.com/DevanshuSawarkar/Pong_with_AI/blob/main/images/pong_screenshot.png)
 ## License
 
 MIT License
