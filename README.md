@@ -3,6 +3,9 @@
 A simple Pong game built with HTML, CSS, and JavaScript.  
 The player controls the left paddle using the mouse, while the right paddle is controlled by a basic AI. Score points by getting the ball past the AI paddle.
 
+## Live Website
+[Click here to try the awebsite](https://devanshusawarkar.github.io/Pong_with_AI/)
+
 ## Features
 
 - **Player vs AI:** Compete against a computer-controlled opponent.
